@@ -41,7 +41,7 @@ Other          → Stripe, Playwright, WebRTC (LiveKit), Git, Linux
 | **RegWatch** | Property-intelligence SaaS — 9.6M+ parcels, 273 gov sources, sub-100ms search | [Live](https://regwatch.nyc) |
 | **Tells** | Browser 3D poker rendering each player's webcam face as a live 3D mesh | [Live](https://facer-fti6.onrender.com) |
 | **miztips** | Production tip-distribution PWA, used every shift at a NYC restaurant | [Live](https://miztips.vercel.app) · [Code](https://github.com/squireaintready/tc) |
-| **Breakout** | Real-time crypto trading terminal | [Code](https://github.com/squireaintready/breakout) |
+| **Breakout** | Real-time crypto trading terminal | [Live](https://breakout-ashy.vercel.app) · [Code](https://github.com/squireaintready/breakout) |
 | **Game3D** | Tower defense × Clash Royale | [Code](https://github.com/squireaintready/game3d) |
 
 ## Connect

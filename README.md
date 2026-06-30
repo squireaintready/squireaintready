@@ -9,7 +9,7 @@ I deploy and manage autonomous AI agents (Claude, GPT) that write code, ship fea
 ## What I'm Building
 
 🏙️ **[RegWatch](https://regwatch.nyc)** — AI property-intelligence platform
-- **9.6M+ parcels / 42M+ records** across NY, NJ & CT from **273 government sources**
+- **10.9M+ parcels / 42M+ records** across NY, NJ & CT from **273 government sources**
 - RAG assistant + automated compliance monitoring with AI change detection
 - Multi-brand host routing, 12-locale i18n, Stripe billing, blue-green zero-downtime deploys
 - Sub-100ms search over a ~114 GB SQLite store (FTS5, WAL, covering indexes)
@@ -38,7 +38,7 @@ Other          → Stripe, Playwright, WebRTC (LiveKit), Git, Linux
 | Project | Description | Links |
 |---------|-------------|-------|
 | **Crowdtells** | AI news feed driven by prediction markets — newsworthiness ranking + LLM briefings grounded in market data | [Live](https://crowdtells.com) |
-| **RegWatch** | Property-intelligence SaaS — 9.6M+ parcels, 273 gov sources, sub-100ms search | [Live](https://regwatch.nyc) |
+| **RegWatch** | Property-intelligence SaaS — 10.9M+ parcels, 273 gov sources, sub-100ms search | [Live](https://regwatch.nyc) |
 | **Tells** | Browser 3D poker rendering each player's webcam face as a live 3D mesh | [Live](https://facer-fti6.onrender.com) |
 | **miztips** | Production tip-distribution PWA, used every shift at a NYC restaurant | [Live](https://miztips.vercel.app) · [Code](https://github.com/squireaintready/tc) |
 | **Breakout** | Real-time crypto trading terminal | [Live](https://breakout-ashy.vercel.app) · [Code](https://github.com/squireaintready/breakout) |
